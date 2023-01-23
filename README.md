@@ -9,7 +9,7 @@
 * React
 
 ## Todos
-1. ~~After an arithmetic operation the next clears the previous~~
+1. ~~After an arithmetic operation the next value clears the previous evaluation~~
 2. Add commas to number for readability
 3. Add support for exponentiation, square roots, logarithm's
 
