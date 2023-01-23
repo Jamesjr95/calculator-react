@@ -1,5 +1,6 @@
 [Localweatherwatch](https://localweatherwatch.netlify.app/) is a site where you can view the weather.
 
+
 ## Features:
 * The user can see weather for various cities
 * The user can track and untrack the weather for saved cities
