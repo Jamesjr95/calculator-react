@@ -1,4 +1,4 @@
-(/screenshots/screen-cap.PNG)
+(/screenshot/screen-cap.PNG)
 
 
 ## Features:
