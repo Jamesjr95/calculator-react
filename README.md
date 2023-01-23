@@ -1,4 +1,4 @@
-<p align="center">Calculator App</p>
+## <p align="center">Calculator App</p>
 
 [![](screenshot/screen-cap.PNG)](https://calculator-react-jay.netlify.app/)
 
