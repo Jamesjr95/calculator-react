@@ -1,5 +1,5 @@
-![image](screenshot/screen-cap.PNG)
-
+<!-- ![image](screenshot/screen-cap.PNG) -->
+  <img src="screenshot/screen-cap.PNG" alt="" width="400" height="700">
 
 ## Features:
 * The user can see weather for various cities
