@@ -1,4 +1,4 @@
-[Localweatherwatch](https://localweatherwatch.netlify.app/) is a site where you can view the weather.
+(/screenshots/screen-cap.PNG)
 
 
 ## Features:
