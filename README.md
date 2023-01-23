@@ -1,5 +1,5 @@
-<!-- ![image](screenshot/screen-cap.PNG) -->
-<a href="[https://developer.mozilla.org](https://calculator-react-jay.netlify.app/)"><img src="screenshot/screen-cap.PNG" alt=""></a>
+[![](screenshot/screen-cap.PNG)](https://calculator-react-jay.netlify.app/)
+
 
 
 ## Features:
