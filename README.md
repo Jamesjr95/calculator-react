@@ -1,4 +1,4 @@
-https://github.com/Jamesjr95/calculator-react/blob/main/screenshot/screen-cap.PNG
+![image](https://github.com/Jamesjr95/calculator-react/blob/main/screenshot/screen-cap.PNG)
 
 
 ## Features:
