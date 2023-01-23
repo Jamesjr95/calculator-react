@@ -1,5 +1,6 @@
 <!-- ![image](screenshot/screen-cap.PNG) -->
-  <img src="screenshot/screen-cap.PNG" alt="" width="400" height="700">
+<a href="[https://developer.mozilla.org](https://calculator-react-jay.netlify.app/)"><img src="screenshot/screen-cap.PNG" alt=""></a>
+
 
 ## Features:
 * The user can see weather for various cities
