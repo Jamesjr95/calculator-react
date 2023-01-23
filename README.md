@@ -1,3 +1,23 @@
+[Localweatherwatch](https://localweatherwatch.netlify.app/) is a site where you can view the weather.
+
+## Features:
+* The user can see weather for various cities
+* The user can track and untrack the weather for saved cities
+* The user can see the hourly/weekly/daily forecast for cities
+* Simple modern design based on the Tilwind css framework
+* Built to be mobile friendly
+
+## Built With
+* Vue
+* Node js
+* Tailwind css
+
+## Todos
+1. Improve user experience by adding loading animation when viewing cities
+2. ~~Add ability to save cities~~
+3. ~~show weekly forecast~~
+3. Add support for celsius
+
 ## Project Setup
 
 ```sh
