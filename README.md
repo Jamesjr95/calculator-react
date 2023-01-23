@@ -1,6 +1,6 @@
+<p align="center">Calculator App</p>
+
 [![](screenshot/screen-cap.PNG)](https://calculator-react-jay.netlify.app/)
-
-
 
 ## Features:
 * The user can see weather for various cities
